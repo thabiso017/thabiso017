@@ -1,5 +1,3 @@
-### Hi there 👋
-
 <!--
 **thabiso017/thabiso017** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
@@ -32,12 +30,11 @@ Here are some ideas to get you started:
     <img src="https://img.shields.io/badge/Twitter-blue?style=for-the-badge&logo=twitter&logoColor=white" alt="Twitter Badge"/>
   </a><br>
   
-  <img src="https://komarev.com/ghpvc/?username=thabiso017&style=flat-square&color=blue" alt=""/>
-
-<h1>
+   <img src="https://komarev.com/ghpvc/?username=thabiso017&style=flat-square&color=blue" alt=""/>
+   
+   <h1>
   hey there
   <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px"/>
 </h1>
-
 </div>
 
