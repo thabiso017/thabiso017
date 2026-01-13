@@ -54,9 +54,9 @@ I am a self-learning Software Developer <img src="https://media.giphy.com/media/
 - :zap: In my free time, I work on programming projects with our group and read tech articles.
 
 - 👯 I’m looking to collaborate on Python, CSS, Javascript and HTML projects.
-
-- :mailbox:How to reach me: [![Linkedin Badge](https://img.shields.io/badge/-Thabiso-blue?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/thabiso-n-5818a225a/nothere)
-
+<!--
+- :mailbox:How to reach me: [![Linkedin Badge](https://img.shields.io/badge/-Thabiso-blue?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/thabiso-n-5818a225a/)
+-->
 - 😄 Fun fact: I love Samsung Electronics and I'm a car enthusiast.
 
 ---
